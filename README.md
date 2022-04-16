@@ -10,19 +10,19 @@
   This project is a website for gym owner who wants their business running without worrying about customers details  storing manually. It gives currently the every access to gym owner and customers to see the gym details like pricing, timing, trainers details etc. But it has limitations as i was not able to store databases, it gives access to only front-end and the user home and admin home pages don't have access yet becouse of back-end. These have access only when authentication gets done.
 
 ## Objectives
-### The new system will convert manual work to the computerized work.
+The new system will convert manual work to the computerized work.
 
-### The advent of the World Wide Web has made it possible to share information on a scale that couldn't be imagined just a few decades ago. The type and amount of information that can be found on the web is virtually unlimited. Even though there is plenty of worthless garbage, there are also vast amounts of useful information that can benefit people from all walks of life.
+The advent of the World Wide Web has made it possible to share information on a scale that couldn't be imagined just a few decades ago. The type and amount of information that can be found on the web is virtually unlimited. Even though there is plenty of worthless garbage, there are also vast amounts of useful information that can benefit people from all walks of life.
 
-### By converting manual work to the computerized work in that case it will remove all paper work and all stationary that will require till now maintain inventory, because from now inventory will be maintained by computer.
+By converting manual work to the computerized work in that case it will remove all paper work and all stationary that will require till now maintain inventory, because from now inventory will be maintained by computer.
 
-### By maintaining all the work on computer will increase our accuracy as well as speed of our work
+By maintaining all the work on computer will increase our accuracy as well as speed of our work.
 
-### The report can be generated at any time if management wants to.
+The report can be generated at any time if management wants to.
 
-### It will remove all clerical work that is done by many people instead of that only one person will acquire to work that all entry.
+It will remove all clerical work that is done by many people instead of that only one person will acquire to work that all entry.
 
-### It will easily used and the time consuming is decreased.
+It will easily used and the time consuming is decreased.
 
 
 I deployed the website on azure static apps service using GitHub action. 
