@@ -1,9 +1,9 @@
 # nawabiangym
 
-# Project link 
+## Project link 
   https://salmon-pond-00b57a500.1.azurestaticapps.net/
 
-# Technology Used 
+## Technology Used 
   HTML, CSS, Bootstrap
 
 ## Project description 
@@ -12,17 +12,17 @@
 I deployed the website on azure static apps service using GitHub action. 
 ![Screenshot 2022-04-16 183328](https://user-images.githubusercontent.com/91871429/163676199-1ea52547-fa49-4040-8feb-ab9f528327f4.jpg)
 
- # Scope
+ ## Scope
   The gym management system web portal has a wide scope which covers the following perspectives:
-  	The administrator has the full-fledged rights over this system.
-  	The admin can make announcement about anything.
-  	The admin can register and view the customers profile data.
-  	Admin can mark attendance of customers.
-  	While marking announcement and evaluation by admin an email will be sent to customers automatically by system.
-  	Admin will update evaluation report of customer, update diet plan, update exercises schedule, answer to questions made by customers and email automatically will be   sent to customers by system.
-  	Customers can view the profile data and can update it by using his own account.
-  	Customers can view their evaluation report, updated diet plan, updated exercises schedule, can ask any question to admin and view the answer.
-  	Customer can view his attendance report.
+  The administrator has the full-fledged rights over this system.
+  The admin can make announcement about anything.
+  The admin can register and view the customers profile data.
+  Admin can mark attendance of customers.
+  While marking announcement and evaluation by admin an email will be sent to customers automatically by system.
+  Admin will update evaluation report of customer, update diet plan, update exercises schedule, answer to questions made by customers and email automatically will be     sent to customers by system.
+  Customers can view the profile data and can update it by using his own account.
+  Customers can view their evaluation report, updated diet plan, updated exercises schedule, can ask any question to admin and view the answer.
+  Customer can view his attendance report.
 
 ![Screenshot 2022-04-16 154946](https://user-images.githubusercontent.com/91871429/163671278-0287ef2b-d18b-493d-bd63-0e03a0fda6d4.jpg)
 ![Screenshot 2022-04-16 154917](https://user-images.githubusercontent.com/91871429/163671287-5e647c8f-678a-4a80-8c29-1ad80a66c359.jpg)
