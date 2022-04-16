@@ -6,7 +6,7 @@
 # Technology Used 
   HTML, CSS, Bootstrap
 
-
+## Project description 
   This project is a website for gym owner who wants their business running without worrying about customers details  storing manually. It gives currently the every access to gym owner and customers to see the gym details like pricing, timing, trainers details etc. But it has limitations as i was not able to store databases, it gives access to only front-end and the user home and admin home pages don't have access yet becouse of back-end. These have access only when authentication gets done.
 
 I deployed the website on azure static apps service using GitHub action. 
